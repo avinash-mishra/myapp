@@ -1,10 +1,9 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.mycompany.app</groupId>
   <artifactId>my-app</artifactId>
   <packaging>war</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <name>my-app</name>
   <!--<packaging>war</packaging>-->
   <properties>
@@ -25,10 +24,10 @@
   </dependencies>
 
   <scm>
-    <connection>scm:git:https://github.com/javaee-samples/javaee7-simple-sample.git</connection>
-    <url>https://github.com/javaee-samples/javaee7-simple-sample.git</url>
-    <developerConnection>scm:git:https://github.com/javaee-samples/javaee7-simple-sample.git</developerConnection>
-    <tag>v1.5</tag>
+    <connection>scm:git:https://github.com/avinash-mishra/myapp.git</connection>
+    <url>https://github.com/avinash-mishra/myapp.git</url>
+    <developerConnection>scm:git:https://github.com/avinash-mishra/myapp.git</developerConnection>
+    <tag>v1.0</tag>
   </scm>
   <distributionManagement>
     <repository>
